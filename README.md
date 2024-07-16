@@ -1,0 +1,4 @@
+# ErickOS-store
+Steps to load your program
+1. Create a folder with your name, the name of the Apps study or with the name you want, it should not be inappropriate and serun unique name if there is already a folder with the same name tries to change the name or add numbers or letters or letters
+2. Once the folder is created, you can upload your programs, to upload a program you have to first enter your folder and create a file with the name of the program and have the extension ".App" in the file put the code using the language Lima Lite ++ and proxomically they can be downloaded with the "App #Download: Devlopername/Programme" APP command, for example if you want to download a program called "Notepad.App" made by the developer "FOO" the "App #DOWNload: Foo/Notepad .App "Remember to follow these instructions correctly
